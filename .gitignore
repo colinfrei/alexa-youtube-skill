@@ -1,4 +1,3 @@
-alexa-youtube-skill.zip
 js/node_modules
 
 # Logs
@@ -30,7 +29,6 @@ coverage
 build/Release
 
 # Dependency directories
-node_modules
 jspm_packages
 
 # Optional npm cache directory
